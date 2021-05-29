@@ -98,6 +98,63 @@ observe in simulated settings
 – pro: situation can be better controlled, easier and cheaper to arrange and do, less time-consuming
 – con: changed context for interface use
 
+
+
+methods:
+– user performance data collection
+– controlled experiments
+
+##### Collecting Performance Data
+• people using a system (often lots of data)
+• targeted data collection
+– look for specific information, but may miss something
+– e.g., frequency & type of request for online assistance
+– e.g., frequency of use of different parts of the system
+– e.g., number of errors and where they occurred
+– e.g., time it takes to complete some operation
+– all these tell you something about the usability
+
+##### Controlled Experiments
+Participants and Apparatus.
+
+• What is controlled experiments?
+– This is when a hypothesis is scientifically tested. In a controlled experiment, an independent variable (the cause) is systematically manipulated and the dependent variable (the effect) is measured.
+
+• striving for
+– removal of experimenter bias
+– clear and testable hypothesis
+– control of variables and conditions
+– quantitative measurement
+– replicability of experiment
+– measurement of confidence in obtained results (statistics)
+
+###### Experimental design - Participants
+• Three experimental design:
+– Between-subjects: different participants perform in different conditions.
+	• No ordering or training effects.
+	• large numbers of participants are needed.
+
+– Within-subjects: all participants perform in all conditions
+	• lessen the impact of individual differences and see how performance varies across conditions for each participant.
+	• Need to ensure the order in which participants perform tasks for this setup does not bias the results (counterbalancing)
+
+– Pair-wise: participants are matched in pairs based on certain user characteristics such as expertise and gender. Each pair is randomly allocated to each experimental condition.
+
+###### Experimental design – Collected data
+• The data collected to measure user performance on the tasks set in an experiment usually includes:
+– Times to complete a task (efficiency)
+– Number of errors per task (accuracy)
+
+###### Clear and Testable Hypothesis
+• A hypothesis involves examining a relationship between two things, called variables.
+• Variables can be independent or dependent.
+
+• independent variables: 
+variables that are to be altered, independent of the participants' behavior
+
+• dependent variables: 
+variables that will be measured, depending on the participants' reactions to the independent variables in the experiment, included in hypothesis.
+
 #### Qualitative Evaluation Techniques
 • direct observations: observe people while they are using a system
 • interviews: investigate specific issues
@@ -115,7 +172,7 @@ Q: Name an advantage and a disadvantage.
 A: 
 advantages:
 gives insight into what the person is thinking.
- 
+
 disvantages:
 – may alter how people perform tasks
 – unnatural (awkward & uncomfortable)
